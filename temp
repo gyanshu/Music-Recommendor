@@ -1,1 +1,9 @@
+#FOR CONVERSION INTO DATE TIME FORMAT
+
+import re
+
+time = "2009-05-04T13:40:10Z"
+arr=re.split('-|T|Z|:',time)
+date_time = arr[0]+arr[1]+arr[2]+arr[3]+arr[4]+arr[5]
+print(date_time)
 
