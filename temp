@@ -7,3 +7,21 @@ arr=re.split('-|T|Z|:',time)
 date_time = arr[0]+arr[1]+arr[2]+arr[3]+arr[4]+arr[5]
 print(date_time)
 
+#DIFF FUNCTION
+
+def timeDiff(DATE1 , DATE2):
+
+
+	arr1=re.split('-|T|Z|:',DATE1)
+	arr2=re.split('-|T|Z|:',DATE2)
+
+	diff =0
+
+	diff= diff+abs(int(arr1[0])-int(arr2[0]))*31104000
+	diff= diff +abs(int(arr1[1])-int(arr2[1]))*2592000
+	diff= diff +abs(int(arr1[2])-int(arr2[2]))*86400
+	diff= diff+abs(int(arr1[3])-int(arr2[3]))*3600
+	diff= diff +abs(int(arr1[4])-int(arr2[4]))*60
+	diff= diff +abs(int(arr1[5])-int(arr2[5]))
+
+	return diff
