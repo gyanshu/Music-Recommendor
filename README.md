@@ -6,7 +6,7 @@ Directory structure
 2) src : contains source code of the recommender system (JUPYTER NOTEBOOK FILE)
 3) DATASET : contains a text file with link to the data set used for the recommender system
 4) [report.pdf](https://github.com/shiva429/MUSIC_RECOMMENDATION/blob/master/Report.pdf) : contains the detailed report of the implementation of the project, various modules implemented,results and contributions.
-5) team_matrix.ppt : contains the final presentaion of the project.
+5) Team_Matrix.ppt : contains the final presentaion of the project.
 
 The two main tasks which this project performs are
 1) Recommending relevant songs
