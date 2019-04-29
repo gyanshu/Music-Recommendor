@@ -1,5 +1,4 @@
-SMAI project : SPRING 2019
-# TOPIC : Exploring the effects of music play sequence by developing a music recommendation system by using word embedding techniques.
+# Exploring the effects of music play sequence by developing a music recommendation system by using word embedding techniques.
 Base paper : https://www.ijcai.org/proceedings/2017/0511.pdf
 
 The two main tasks which this project performs are
