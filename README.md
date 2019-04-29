@@ -2,7 +2,7 @@
 Base paper : https://www.ijcai.org/proceedings/2017/0511.pdf
 
 Directory structure
-1) project_proposal.pdf : contains the initial project proposal made
+1) [project_proposal.pdf](https://github.com/shiva429/MUSIC_RECOMMENDATION/blob/master/project_proposal.pdf) : contains the initial project proposal made
 2) src : contains source code of the recommender system (JUPYTER NOTEBOOK FILE)
 3) DATASET : contains a text file with link to the data set used for the recommender system
 4) report.pdf : contains the detailed report of the implementation of the project, various modules implemented,results and contributions.
