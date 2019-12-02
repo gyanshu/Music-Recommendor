@@ -15,6 +15,7 @@ The two main tasks which this project performs are
 The steps performed in order to do this are :- 
 1) Preprocess Data
 2) Implement song2Vec to make top-n predictions.
-3) Using song to vec to create vector representations to be used futhar 
-4) Using Matrix Factorization to predict the ratings
+3) Using song to vec to create vector representations to be used further.
+4) Using Matrix Factorization to predict the ratings.
+5) Integrating song2vec into matrix factorization to get improved results.
 5) Comparing our method with other methods.
