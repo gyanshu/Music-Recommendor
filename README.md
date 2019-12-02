@@ -1,4 +1,4 @@
-# Exploring the effects of music play sequence by developing a music recommendation system by using word embedding techniques
+# Music Recommendor
 Base paper : https://www.ijcai.org/proceedings/2017/0511.pdf
 
 Directory structure
